@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Movie Test",
+        "id": "Movie_Test",
+        "location": "",
+        "sections": [
+            "Movie"
+        ],
+        "description": "Dummy Movie Database",
+        "tags": [
+            "Movie"
+        ],
+        "insights": [
+            {
+                "id": "",
+                "image": "",
+                "name": ""
+            }
+        ],
+        "logo": ""
+    }
+]
