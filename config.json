@@ -74,57 +74,57 @@
         "insights": [
             {
                 "id": "0a4c0086-8dc8-4229-898e-32f558b97fd9",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/0a4c0086-8dc8-4229-898e-32f558b97fd9/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/0a4c0086-8dc8-4229-898e-32f558b97fd9/image.png",
                 "name": "What is the cost breakdown across layers over the FYDP?"
             },
             {
                 "id": "15bdc187-97dc-4204-a1da-6be68cfea592",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/15bdc187-97dc-4204-a1da-6be68cfea592/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/15bdc187-97dc-4204-a1da-6be68cfea592/image.png",
                 "name": "What is the network of systems?"
             },
             {
                 "id": "1c23ee38-9288-4cf8-a88f-5ddc888e3b43",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/1c23ee38-9288-4cf8-a88f-5ddc888e3b43/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/1c23ee38-9288-4cf8-a88f-5ddc888e3b43/image.png",
                 "name": "What is the breakdown of functions for the User Interface?"
             },
             {
                 "id": "33fc1014-4004-4563-b05d-0f7bf1e5cd30",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/33fc1014-4004-4563-b05d-0f7bf1e5cd30/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/33fc1014-4004-4563-b05d-0f7bf1e5cd30/image.png",
                 "name": "What function do the systems perform?"
             },
             {
                 "id": "6ecf67c5-17d0-432a-9eed-e4b51c9ef81a",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/6ecf67c5-17d0-432a-9eed-e4b51c9ef81a/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/6ecf67c5-17d0-432a-9eed-e4b51c9ef81a/image.png",
                 "name": "Overview of transition"
             },
             {
                 "id": "7cb60689-ebc5-49e2-9789-dd9fbeaac52a",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/7cb60689-ebc5-49e2-9789-dd9fbeaac52a/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/7cb60689-ebc5-49e2-9789-dd9fbeaac52a/image.png",
                 "name": "Analysis Dashboard"
             },
             {
                 "id": "85f5c94c-5d26-4760-b8da-3c66e347fc19",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/85f5c94c-5d26-4760-b8da-3c66e347fc19/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/85f5c94c-5d26-4760-b8da-3c66e347fc19/image.png",
                 "name": "What is the network of systems for all systems?"
             },
             {
                 "id": "c837e6ee-fefa-4cfd-b598-e6314b4ca1cb",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/c837e6ee-fefa-4cfd-b598-e6314b4ca1cb/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/c837e6ee-fefa-4cfd-b598-e6314b4ca1cb/image.png",
                 "name": "What data is being passed and how often?"
             },
             {
                 "id": "e8e9e8aa-ae5b-4f3c-a41f-0e6fd09a1511",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/e8e9e8aa-ae5b-4f3c-a41f-0e6fd09a1511/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/e8e9e8aa-ae5b-4f3c-a41f-0e6fd09a1511/image.png",
                 "name": "What is the system similarity for all systems?"
             },
             {
                 "id": "f389af6e-ec3a-4178-8631-f787c9eed405",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/f389af6e-ec3a-4178-8631-f787c9eed405/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/f389af6e-ec3a-4178-8631-f787c9eed405/image.png",
                 "name": "Current State Dashboard"
             }
         ],
         "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/image.png"
+        "logo": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Core/master/image.png"
     },
     "BIDW_Rationalization_Future": {
         "name": "BIDW Rationalization Future",
@@ -143,17 +143,17 @@
         "insights": [
             {
                 "id": "e7dd3f98-b759-4967-ab92-8f6a82625da6",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/e7dd3f98-b759-4967-ab92-8f6a82625da6/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/master/e7dd3f98-b759-4967-ab92-8f6a82625da6/image.png",
                 "name": "What does the future state enterprise look like?"
             },
             {
                 "id": "efcd214c-84f4-483f-96c4-c390915b8b18",
-                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/efcd214c-84f4-483f-96c4-c390915b8b18/image.png",
+                "image": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/master/efcd214c-84f4-483f-96c4-c390915b8b18/image.png",
                 "name": "Future State Dashboard"
             }
         ],
         "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/image.png"
+        "logo": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/master/image.png"
     },
     "Clinical_Data_Warehouse_1": {
         "name": "Clinical Data Warehouse 1",
@@ -171,7 +171,7 @@
         ],
         "insights": [],
         "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_1/image.png"
+        "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_1/master/image.png"
     },
     "Clinical_Data_Warehouse_2": {
         "name": "Clinical Data Warehouse 2",
@@ -190,11 +190,11 @@
         "insights": [
             {
                 "id": "7b2b7dc5-bf7e-4c96-a4af-90388226c166",
-                "image": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/version/7b2b7dc5-bf7e-4c96-a4af-90388226c166/image.png",
+                "image": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/master/7b2b7dc5-bf7e-4c96-a4af-90388226c166/image.png",
                 "name": "Merged Dataset (Identify Invalid Patient IDs)"
             }
         ],
         "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/image.png"
+        "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/master/image.png"
     }
 }
