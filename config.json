@@ -1,22 +1,60 @@
 [
     {
-        "name": "Movie Test",
-        "id": "Movie_Test",
-        "location": "",
+        "name": "MovieTest",
+        "id": "MovieTest",
+        "location": "neelneelneel/MovieTest",
         "sections": [
             "Movie"
         ],
-        "description": "Dummy Movie Database",
+        "description": "This is a sample movie database. It will show you some of the sample visualizations that you can create with SEMOSS while introducing you to the wonderful world of film.",
         "tags": [
-            "Movie"
+            "Movie",
+            "Film",
+            "Sample",
+            "Test"
         ],
         "insights": [
             {
-                "id": "",
-                "image": "",
-                "name": ""
+                "id": "32fa2b20-da7b-4f47-93ba-83d6c5342762",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/32fa2b20-da7b-4f47-93ba-83d6c5342762/image.png",
+                "name": "Genre Sized by Total Budget"
+            },
+            {
+                "id": "41ef9ce4-e011-4014-99e8-e97c1a7f0c67",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/41ef9ce4-e011-4014-99e8-e97c1a7f0c67/image.png",
+                "name": "Title Sized by Budget"
+            },
+            {
+                "id": "903bedbd-4da6-47fa-8432-7e69e39d91ca",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/903bedbd-4da6-47fa-8432-7e69e39d91ca/image.png",
+                "name": "Network of a Few Titles"
+            },
+            {
+                "id": "9f967830-cdc7-49de-acbf-4e15c8c00e4f",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/9f967830-cdc7-49de-acbf-4e15c8c00e4f/image.png",
+                "name": "Show me the distribution of Titles by Revenue"
+            },
+            {
+                "id": "a258a0cb-e18b-4233-bdc8-5aaa700eb16e",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/a258a0cb-e18b-4233-bdc8-5aaa700eb16e/image.png",
+                "name": "Count of Nominated Titles"
+            },
+            {
+                "id": "b13a06f8-cff0-42c8-8f2b-285b3cd130cd",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/b13a06f8-cff0-42c8-8f2b-285b3cd130cd/image.png",
+                "name": "Titles Clustered By Genre"
+            },
+            {
+                "id": "e2ff1fc3-554a-433b-80a6-8d92b70bf52c",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/e2ff1fc3-554a-433b-80a6-8d92b70bf52c/image.png",
+                "name": "Movie Budget by Nominated"
+            },
+            {
+                "id": "e88d4938-0bcf-4e64-8da9-3264a90f0a77",
+                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/e88d4938-0bcf-4e64-8da9-3264a90f0a77/image.png",
+                "name": "Genre Broken Down by Title"
             }
         ],
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/image.png"
     }
 ]
