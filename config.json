@@ -196,5 +196,21 @@
         ],
         "dependencies": [],
         "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/master/image.png"
-    }
+    },
+    "nppes": {
+    "name": "nppes",
+    "id": "nppes",
+    "location": "kunal0137/nppes",
+    "sections": ["Healthcare"],
+    "description": "This database contains Medicare Part D data from across the country",
+    "tags": ["Healthcare", "Impala"],
+    "insights": [
+      {
+        "id": "968c9c38-613b-4bca-bfb1-e2c79b20b1b7",
+        "image": "https://raw.githubusercontent.com/kunal0137/nppes/master/968c9c38-613b-4bca-bfb1-e2c79b20b1b7/image.png",
+        "name": "Nppes Dashboard"
+      }
+    ],
+    "logo": "https://raw.githubusercontent.com/kunal0137/nppes/master/image.png"
+  }
 }
