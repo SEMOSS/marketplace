@@ -57,6 +57,41 @@
         ],
         "logo": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/image.png"
     },
+    "ActorDB": {
+        "name": "ActorDB",
+        "id": "ActorDB",
+        "location": "davyxzhang/ActorDB",
+        "sections": [
+            "Sample"
+        ],
+        "description": "This is a sample actor database. It will show you some of the sample visualizations that you can create with SEMOSS while introducing you to the wonderful world of actors.",
+        "tags": [
+            "Movie",
+            "Film",
+            "Sample",
+            "Test",
+            "Actor"
+        ],
+        "insights": [
+            
+            {
+                "id": "71b22237-3252-40bf-ad72-74b99cc3df78",
+                "image": "https://raw.githubusercontent.com/davyxzhang/ActorDB/master/71b22237-3252-40bf-ad72-74b99cc3df78/image.png",
+                "name": "Number of times each actor got awarded Best Actor"
+            },
+            {
+                "id": "176bf29c-2f92-4822-8cd4-a8a5d5294217",
+                "image": "https://raw.githubusercontent.com/davyxzhang/ActorDB/master/bb059618-2dcc-420e-9e83-2035f54ee2d6/image.png",
+                "name": "Show first 500 records from BEST_ACTORCSV"
+            },
+            {
+                "id": "bb059618-2dcc-420e-9e83-2035f54ee2d6",
+                "image": "https://raw.githubusercontent.com/davyxzhang/ActorDB/master/176bf29c-2f92-4822-8cd4-a8a5d5294217/image.png",
+                "name": "Number of roles each actor has played"
+            }
+        ],
+        "logo": "https://raw.githubusercontent.com/davyxzhang/ActorDB/master/image.png"
+    },
      "Diabetes": {
         "name": "Diabetes",
         "id": "Diabetes",
