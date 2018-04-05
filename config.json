@@ -57,6 +57,33 @@
         ],
         "logo": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/image.png"
     },
+     "Diabetes": {
+        "name": "Diabetes",
+        "id": "Diabetes",
+        "location": "neelneelneel/Diabetes",
+        "sections": [
+            "Sample"
+        ],
+        "description": "This is a sample diabetes database. It will show you some of the sample visualizations and cleaning routines within SEMOSS while introducing you to the wonderful world of diabetes.",
+        "tags": [
+            "Diabetes",
+            "Health"
+        ],
+        "insights": [
+            {
+                "id": "b61977fa-2b4c-41d1-9f58-5250aeb1a64b",
+                "image": "https://raw.githubusercontent.com/neelneelneel/Diabetes/master/b61977fa-2b4c-41d1-9f58-5250aeb1a64b/image.png",
+                "name": "Breakdown by gender"
+            },
+            {
+                "id": "c84f70f1-136e-4d54-9dae-77c8358e9e7b",
+                "image": "https://raw.githubusercontent.com/neelneelneel/Diabetes/master/c84f70f1-136e-4d54-9dae-77c8358e9e7b/image.png",
+                "name": "Cleaned Drug Names"
+            }
+        ],
+        "dependencies": [],
+        "logo": "https://raw.githubusercontent.com/neelneelneel/Diabetes/master/image.png"
+    },
     "BIDW_Rationalization_Core": {
         "name": "BIDW Rationalization Core",
         "id": "BIDW_Rationalization_Core",
