@@ -234,29 +234,5 @@
         "insights": [],
         "dependencies": [],
         "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_1/master/image.png"
-    },
-    "Clinical_Data_Warehouse_2": {
-        "name": "Clinical Data Warehouse 2",
-        "id": "Clinical_Data_Warehouse_2",
-        "location": "neelneelneel/Clinical_Data_Warehouse_2",
-        "sections": [
-            "Rationalization"
-        ],
-        "description": "",
-        "tags": [
-            "Portfolio",
-            "Rationalization",
-            "Healthcare",
-            "Architecture"
-        ],
-        "insights": [
-            {
-                "id": "7b2b7dc5-bf7e-4c96-a4af-90388226c166",
-                "image": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/master/7b2b7dc5-bf7e-4c96-a4af-90388226c166/image.png",
-                "name": "Merged Dataset (Identify Invalid Patient IDs)"
-            }
-        ],
-        "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_2/master/image.png"
     }
 }
