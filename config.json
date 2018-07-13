@@ -1,62 +1,4 @@
 {
-    "MovieTest": {
-        "name": "MovieTest",
-        "id": "MovieTest",
-        "location": "neelneelneel/MovieTest",
-        "sections": [
-            "Sample"
-        ],
-        "description": "This is a sample movie database. It will show you some of the sample visualizations that you can create with SEMOSS while introducing you to the wonderful world of film.",
-        "tags": [
-            "Movie",
-            "Film",
-            "Sample",
-            "Test"
-        ],
-        "insights": [
-            {
-                "id": "32fa2b20-da7b-4f47-93ba-83d6c5342762",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/32fa2b20-da7b-4f47-93ba-83d6c5342762/image.png",
-                "name": "Genre Sized by Total Budget"
-            },
-            {
-                "id": "41ef9ce4-e011-4014-99e8-e97c1a7f0c67",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/41ef9ce4-e011-4014-99e8-e97c1a7f0c67/image.png",
-                "name": "Title Sized by Budget"
-            },
-            {
-                "id": "903bedbd-4da6-47fa-8432-7e69e39d91ca",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/903bedbd-4da6-47fa-8432-7e69e39d91ca/image.png",
-                "name": "Network of a Few Titles"
-            },
-            {
-                "id": "9f967830-cdc7-49de-acbf-4e15c8c00e4f",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/9f967830-cdc7-49de-acbf-4e15c8c00e4f/image.png",
-                "name": "Show me the distribution of Titles by Revenue"
-            },
-            {
-                "id": "a258a0cb-e18b-4233-bdc8-5aaa700eb16e",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/a258a0cb-e18b-4233-bdc8-5aaa700eb16e/image.png",
-                "name": "Count of Nominated Titles"
-            },
-            {
-                "id": "b13a06f8-cff0-42c8-8f2b-285b3cd130cd",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/b13a06f8-cff0-42c8-8f2b-285b3cd130cd/image.png",
-                "name": "Titles Clustered By Genre"
-            },
-            {
-                "id": "e2ff1fc3-554a-433b-80a6-8d92b70bf52c",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/e2ff1fc3-554a-433b-80a6-8d92b70bf52c/image.png",
-                "name": "Movie Budget by Nominated"
-            },
-            {
-                "id": "e88d4938-0bcf-4e64-8da9-3264a90f0a77",
-                "image": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/e88d4938-0bcf-4e64-8da9-3264a90f0a77/image.png",
-                "name": "Genre Broken Down by Title"
-            }
-        ],
-        "logo": "https://raw.githubusercontent.com/neelneelneel/MovieTest/master/image.png"
-    },
     "ActorDB": {
         "name": "ActorDB",
         "id": "ActorDB",
@@ -91,33 +33,6 @@
             }
         ],
         "logo": "https://raw.githubusercontent.com/davyxzhang/ActorDB/master/image.png"
-    },
-     "Diabetes": {
-        "name": "Diabetes",
-        "id": "Diabetes",
-        "location": "neelneelneel/Diabetes",
-        "sections": [
-            "Sample"
-        ],
-        "description": "This is a sample diabetes database. It will show you some of the sample visualizations and cleaning routines within SEMOSS while introducing you to the wonderful world of diabetes.",
-        "tags": [
-            "Diabetes",
-            "Health"
-        ],
-        "insights": [
-            {
-                "id": "b61977fa-2b4c-41d1-9f58-5250aeb1a64b",
-                "image": "https://raw.githubusercontent.com/neelneelneel/Diabetes/master/b61977fa-2b4c-41d1-9f58-5250aeb1a64b/image.png",
-                "name": "Breakdown by gender"
-            },
-            {
-                "id": "c84f70f1-136e-4d54-9dae-77c8358e9e7b",
-                "image": "https://raw.githubusercontent.com/neelneelneel/Diabetes/master/c84f70f1-136e-4d54-9dae-77c8358e9e7b/image.png",
-                "name": "Cleaned Drug Names"
-            }
-        ],
-        "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/neelneelneel/Diabetes/master/image.png"
     },
     "BIDW_Rationalization_Core": {
         "name": "BIDW Rationalization Core",
@@ -216,23 +131,5 @@
         ],
         "dependencies": [],
         "logo": "https://raw.githubusercontent.com/mahhemani/BIDW_Rationalization_Future/master/image.png"
-    },
-    "Clinical_Data_Warehouse_1": {
-        "name": "Clinical Data Warehouse 1",
-        "id": "Clinical_Data_Warehouse_1",
-        "location": "neelneelneel/Clinical_Data_Warehouse_1",
-        "sections": [
-            "Rationalization"
-        ],
-        "description": "",
-        "tags": [
-            "Portfolio",
-            "Rationalization",
-            "Healthcare",
-            "Architecture"
-        ],
-        "insights": [],
-        "dependencies": [],
-        "logo": "https://raw.githubusercontent.com/neelneelneel/Clinical_Data_Warehouse_1/master/image.png"
     }
 }
